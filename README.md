@@ -1,4 +1,4 @@
-# Estreet-rockets3x-real-names
-Realnames Extra for Estreet Rockets 3x made by estreetrockets and beale
+# Estreet-rockets3x-changes
+TU and realnames extras for Estreet Rockets 3x made by estreetrockets and beale
 
-Put .cfg file anywhere inside gamedata folder
+Put .cfg files anywhere inside gamedata folder
